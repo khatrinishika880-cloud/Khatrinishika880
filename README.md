@@ -1,4 +1,4 @@
-# Hey 👋 I'm Nishika
+Hey 👋 I'm Nishika
 
 🎓 BCA Student  
 🔐 Aspiring Ethical Hacker  
@@ -51,9 +51,8 @@ Some of my learning-based projects:
 
 ## 🤝 Connect With Me
 
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: your-link  
-
+- 📧 Email: khatrinishika880@gmail.com  
+- 💼 LinkedIn: nishikakhatri
 ---
 
 ⭐ Thanks for visiting my GitHub profile!
